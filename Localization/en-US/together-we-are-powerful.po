@@ -142,10 +142,10 @@ msgstr ""
 msgid "Info Security Engineer"
 msgstr ""
 
-msgid "Kevin Wasielewski"	
-msgstr ""	
+msgid "Kevin Wasielewski"
+msgstr ""
 
-msgid "Co-founder & CEO Origin PC"	
+msgid "Co-founder & CEO Origin PC"
 msgstr ""
 
 msgid "Compilation Video"
